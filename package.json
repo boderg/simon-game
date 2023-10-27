@@ -1,0 +1,22 @@
+{
+  "name": "simon-game",
+  "version": "1.0.0",
+  "description": "This is a javascript walkthrough project created with the use of jest to test the js functions and code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boderg/simon-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boderg/simon-game/issues"
+  },
+  "homepage": "https://github.com/boderg/simon-game#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
